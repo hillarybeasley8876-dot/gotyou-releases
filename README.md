@@ -14,7 +14,7 @@
 | `GotYou_v1.5_win64.zip` | 513 MB | Windows 包（GotYou.exe + GotYou.pck + README.txt + licenses），解压即玩 |
 
 `GotYou_v1.5_win64.zip` 的 SHA-256：
-`246c9406560522ac502081137767740f5b250801c57c30976e860d693eebf794`
+`2ebae124f8e27b85efbcc214aa63a9054643bc685cc762132634bc0a9d6057c0`
 
 ## 版本
 
